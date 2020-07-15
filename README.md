@@ -4,27 +4,6 @@ I am a dynamic, enthusiastic and passionate tech professional. Completing my Bac
 
 I have chosen my passion as my career which I think is positive aspect. Working as a freelance developer for last 2 years and collaborating with various teams and people has given me a great experience about the industry and upgraded my skills regularly.
 
-⚙️ Skills 
-
-🔧 Web Programming / Scripting: HTML, CSS, Ajax, JSON, PHP, NodeJS
-🔧 Frameworks: JQuery, Bootstrap, Vue.js, Angular 2+, Express
-🔧 Web Scraping: Cheerio, Selenium, Scrapy, Beautiful Soup
-🔧 Mobile Development: React Native, Flutter
-🔧 Database: MySQL, Oracle, MongoDB, Postgres
-🔧 Programming Languages: C, C++, Java, Python, Javascript, Typescript
-🔧 Version Control: Git, Github
-🔧 Operating System: Windows, Linux, Android
-🔧 Well acquainted with the regular web server security concerns
-🔧 Team Player
-🔧 Excellent Leadership skills
-🔧 Never give up attitude
-
-⚙️ Currently Focussed
-Mastering Data Structures and Algorithms, AWS Developer Certification, DevOps (Infrastructure As Code, Containerization, CI/CD, Monitoring and Auditing)
-
-⚙️ Dev Environment
-Git, Linux, VS Code
-
 
 <!--
 **swapneelr09/swapneelr09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
